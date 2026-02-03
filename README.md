@@ -2,7 +2,7 @@
 
 A pure **JavaScript-based web application** that helps users manage daily tasks efficiently. The application supports adding, editing, deleting, and marking tasks as completed, with data stored locally in the browser using **Local Storage**.
 
----
+
 
 ## Features
 
@@ -13,7 +13,7 @@ A pure **JavaScript-based web application** that helps users manage daily tasks 
 * Persistent storage using Browser Local Storage
 * Simple and user-friendly interface
 
----
+
 
 ## Technologies Used
 
@@ -22,19 +22,18 @@ A pure **JavaScript-based web application** that helps users manage daily tasks 
 * **JavaScript** – Application logic and DOM manipulation
 * **Local Storage** – Data persistence (no backend required)
 
----
 
-## 📁 Project Structure
 
-```
+## Project Structure
+
+
 Smart-Task-Manager/
 │
 ├── index.html
 ├── style.css
 └── script.js
-```
 
----
+
 
 ## How to Run the Project
 
@@ -43,9 +42,11 @@ Smart-Task-Manager/
 3. Double-click on `index.html`.
 4. The application will open in your default web browser.
 
-*No additional setup or server is required.*
+<img width="1077" height="526" alt="image" src="https://github.com/user-attachments/assets/dd734a75-8ef9-47c9-a774-8019d3eeb7bc" />
+<img width="1103" height="661" alt="image" src="https://github.com/user-attachments/assets/ab757ed5-76e8-4c43-97dc-38647d49aeff" />
 
----
+
+
 
 ## Use Case
 
@@ -56,11 +57,8 @@ This project demonstrates core JavaScript concepts such as:
 * CRUD operations
 * Client-side data storage
 
-It is suitable for **beginner to intermediate learners** and ideal for **campus placements and IT company applications** (e.g., Cognizant).
 
----
-
-## 🔮 Future Enhancements
+## Future Enhancements
 
 * User authentication (login/signup)
 * Task priority levels
