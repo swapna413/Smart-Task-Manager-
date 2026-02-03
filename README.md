@@ -23,18 +23,6 @@ A pure **JavaScript-based web application** that helps users manage daily tasks 
 * **Local Storage** – Data persistence (no backend required)
 
 
-
-## Project Structure
-
-
-Smart-Task-Manager/
-│
-├── index.html
-├── style.css
-└── script.js
-
-
-
 ## How to Run the Project
 
 1. Download or clone this repository.
