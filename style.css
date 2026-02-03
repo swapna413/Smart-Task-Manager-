@@ -1,0 +1,46 @@
+body {
+    font-family: Arial;
+    background: #f4f4f4;
+    text-align: center;
+}
+
+.task-container {
+    background: white;
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+input {
+    width: 80%;
+    padding: 8px;
+}
+
+button {
+    padding: 8px;
+    margin-top: 10px;
+}
+
+li {
+    list-style: none;
+    margin: 8px 0;
+}
+.completed {
+    text-decoration: line-through;
+    color: green;
+}
+li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.task-text {
+    cursor: pointer;
+    flex: 1;
+}
+
+.actions button {
+    margin-left: 5px;
+}
